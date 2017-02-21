@@ -1,0 +1,157 @@
+  html {
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-color: #ddd9d0;
+    box-sizing: border-box;
+}
+
+}
+
+}
+
+  head {
+    display: none;
+}
+
+  body {
+  display: block;
+  margin: 8px;
+}
+
+  h1 {
+    color: #EB3542;
+    font-family: 'Raleway', sans-serif;
+    font-size: 55px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+
+ h2 {
+  text-align: center;
+  font-size: 34px;
+}
+
+ p {
+   color: #444444;
+   line-height: 32px;
+   font-family: 'Raleway', sans-serif;
+   font-size: 28px;
+   font-weight: 100;
+   text-align: center;
+   display: block;
+}
+
+img {
+    width: 900px;
+    height: 1100px;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.nav li {
+    display: block;
+    text-align: center;
+    float: left;
+    margin: 0px 10px;
+}
+
+.nav ul {
+    margin-right: 30px;
+    position: none;
+    list-style-type: none;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: black;
+    disply: block;
+    font-size: 20px;
+}
+
+@media
+{
+
+
+iframe {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+
+}
+
+html, body {
+height: 4000px;
+}
+
+.navbar-fixed {
+  top: 0;
+  z-index: 100;
+position: fixed;
+  width: 100%;
+}
+
+#body_div {
+top: 0;
+position: relative;
+  height: 200px;
+  background-color: green;
+}
+
+#banner {
+width: 100%;
+height: 273px;
+  background-color: gray;
+overflow: hidden;
+}
+
+#nav_bar {
+border: 0;
+background-color: #202020;
+border-radius: 0px;
+margin-bottom: 0;
+  height: 30px;
+}
+
+.nav_links {
+  margin: 0;
+}
+
+.nav_links li {
+display: inline-block;
+  margin-top: 4px;
+}
+.nav_links li a {
+padding: 0 15.5px;
+color: #3498db;
+text-decoration: none;
+}
+
+​#panel, #flip, #apple, #pineapple, #minsoo, #park, {
+    padding: 60px;
+    text-align: center;
+    background-color:
+    border: solid 1px #c3c3c3;
+    cursor: hand;
+}
+
+#panel, #pineapple, #park {
+    padding: 10px;
+    display: none;
+}
+
+#flip, #apple, #minsoo  {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 100;
+  text-align: center;
+  display: block;
+}
